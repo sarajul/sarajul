@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sarajul
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python and Data Engineering
+- 💞️ I’m looking to collaborate on big data projects
